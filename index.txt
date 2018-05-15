@@ -7,3 +7,4 @@ i am  master branch
 for new branch
 change on github
 blah blah change test
+new test line
